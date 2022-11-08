@@ -1,0 +1,9 @@
+
+#vim files
+*~
+
+#.ipynbfiles
+*.ipynb_checkpoints/
+
+#wandb files
+wandb/
